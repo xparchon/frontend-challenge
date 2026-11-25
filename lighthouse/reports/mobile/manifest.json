@@ -1,0 +1,74 @@
+[
+  {
+    "url": "http://127.0.0.1:4173/",
+    "isRepresentativeRun": false,
+    "htmlPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\-2026_11_25_21_23_19-report.html",
+    "jsonPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\-2026_11_25_21_23_19-report.json",
+    "summary": {
+      "performance": 0.93,
+      "accessibility": 1,
+      "best-practices": 0.96,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:4173/",
+    "isRepresentativeRun": false,
+    "htmlPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\-2026_11_25_21_23_33-report.html",
+    "jsonPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\-2026_11_25_21_23_33-report.json",
+    "summary": {
+      "performance": 0.93,
+      "accessibility": 1,
+      "best-practices": 0.96,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:4173/market/nfts/emerald-ape-042",
+    "isRepresentativeRun": false,
+    "htmlPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\market_nfts_emerald_ape_042-2026_11_25_21_24_12-report.html",
+    "jsonPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\market_nfts_emerald_ape_042-2026_11_25_21_24_12-report.json",
+    "summary": {
+      "performance": 0.93,
+      "accessibility": 1,
+      "best-practices": 0.96,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:4173/market/nfts/emerald-ape-042",
+    "isRepresentativeRun": false,
+    "htmlPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\market_nfts_emerald_ape_042-2026_11_25_21_24_24-report.html",
+    "jsonPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\market_nfts_emerald_ape_042-2026_11_25_21_24_24-report.json",
+    "summary": {
+      "performance": 0.92,
+      "accessibility": 1,
+      "best-practices": 0.96,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:4173/",
+    "isRepresentativeRun": true,
+    "htmlPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\-2026_11_25_21_23_46-report.html",
+    "jsonPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\-2026_11_25_21_23_46-report.json",
+    "summary": {
+      "performance": 0.93,
+      "accessibility": 1,
+      "best-practices": 0.96,
+      "seo": 1
+    }
+  },
+  {
+    "url": "http://127.0.0.1:4173/market/nfts/emerald-ape-042",
+    "isRepresentativeRun": true,
+    "htmlPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\market_nfts_emerald_ape_042-2026_11_25_21_24_00-report.html",
+    "jsonPath": "D:\\Visual Studio Projects\\Desafio Frontend\\frontend-challenge\\lighthouse\\reports\\mobile\\market_nfts_emerald_ape_042-2026_11_25_21_24_00-report.json",
+    "summary": {
+      "performance": 0.93,
+      "accessibility": 1,
+      "best-practices": 0.96,
+      "seo": 1
+    }
+  }
+]
